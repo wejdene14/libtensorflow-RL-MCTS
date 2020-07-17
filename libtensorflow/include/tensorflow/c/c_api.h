@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /* Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -1570,7 +1570,6 @@ TF_CAPI_EXPORT extern void TF_RegisterLogListener(
 #endif
 
 #endif  // TENSORFLOW_C_C_API_H_
-=======
 /* Copyright 2015 The TensorFlow Authors. All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -1584,7 +1583,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-==============================================================================*/
 
 #ifndef TENSORFLOW_C_C_API_H_
 #define TENSORFLOW_C_C_API_H_
@@ -1592,7 +1590,6 @@ limitations under the License.
 #include <stddef.h>
 #include <stdint.h>
 
-<<<<<<< HEAD
 #include "libtensorflow/include/tensorflow/c/tf_attrtype.h"
 #include "libtensorflow/include/tensorflow/c/tf_datatype.h"
 #include "libtensorflow/include/tensorflow/c/tf_status.h"
@@ -1602,7 +1599,7 @@ limitations under the License.
 #include "tensorflow/c/tf_datatype.h"
 #include "tensorflow/c/tf_status.h"
 #include "tensorflow/c/tf_tensor.h"
->>>>>>> b51a603f865c7fdfbd6ddac4768d9e607e3cd390
+
 
 // --------------------------------------------------------------------------
 // C API for TensorFlow.
@@ -3149,4 +3146,3 @@ TF_CAPI_EXPORT extern void TF_RegisterLogListener(
 #endif
 
 #endif  // TENSORFLOW_C_C_API_H_
->>>>>>> 5705d2b1be38f06b031b9b0cc1c837d460000eab
