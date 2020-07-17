@@ -19,8 +19,8 @@ limitations under the License.
 #include <stddef.h>
 #include <stdint.h>
 
-#include "tensorflow/c/c_api.h"
-#include "tensorflow/c/eager/c_api.h"
+#include "libtensorflow/include/tensorflow/c/c_api.h"
+#include "libtensorflow/include/tensorflow/c/eager/c_api.h"
 
 // --------------------------------------------------------------------------
 // Experimental C API for TensorFlow.
